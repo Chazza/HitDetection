@@ -1,0 +1,6 @@
+name: HitDetection
+version: ${project.version}
+main: com.gfplugins.hitdetection.HitDetection
+authors: [Gianluca]
+description: Simply modify the Hit Detection or Delay for players on your server
+website: https://gfplugins.com
